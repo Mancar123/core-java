@@ -2,10 +2,10 @@ package com.xworkz.manojtask1.internal;
 
 public class mutantrunner {
 
-    public static void main(String[] args) {
+    public void mutant2(){
 
 
-        System.out.println(" mutations brings power to mutants");
+        System.out.println("  power to mutants");
         mutant mutant = new mutant();
         mutant.setName("wolverine");
         mutant.setAbility("regeneration");
