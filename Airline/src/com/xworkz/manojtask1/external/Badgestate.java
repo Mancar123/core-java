@@ -4,7 +4,6 @@ import com.xworkz.manojtask1.internal.Badge;
 
 public class Badgestate {
     public void badge () {
-        Badge badge = new Badge();
         System.out.println("Badge Details");
         Badge badges = new Badge();
         badges.getDesign();

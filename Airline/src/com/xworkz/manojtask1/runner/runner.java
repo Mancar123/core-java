@@ -1,13 +1,9 @@
 package com.xworkz.manojtask1.runner;
 
-import com.xworkz.manojtask1.external.Badgestate;
-import com.xworkz.manojtask1.external.Keychainstate;
-import com.xworkz.manojtask1.external.Mutantstate;
-import com.xworkz.manojtask1.external.Tankstate;
-import com.xworkz.manojtask1.internal.Badgerunner;
-import com.xworkz.manojtask1.internal.Keychainrunner;
-import com.xworkz.manojtask1.internal.Tankrunner;
-import com.xworkz.manojtask1.internal.mutantrunner;
+
+import com.xworkz.manojtask1.external.*;
+import com.xworkz.manojtask1.internal.*;
+
 
 public class runner {
     public static void main(String[] args) {
@@ -30,7 +26,39 @@ public class runner {
         Badgestate Badgestate=new Badgestate();
         Badgestate.badge();
         Badgerunner badgerunner=new Badgerunner();
-        badgerunner.Badge2();
+        System.out.println("class for postoffice");
+        Postofficestate postofficestate=new Postofficestate();
+        Postofficestate.Post2();
+        Postofficerunner postofficerunner=new Postofficerunner();
+        Postofficerunner.Postoffice2();
+        System.out.println("class for Occupation");
+        Occupationstate occupationstate=new Occupationstate();
+        Occupationstate.jobDetails();
+        Occupationrunner Occupationrunner = new Occupationrunner();
+        Occupationrunner.occupation2();
+        System.out.println("class for Jet");
+        JetState jetState=new JetState();
+        JetState.jet();
+        Jetrunner Jetrunner = new Jetrunner();
+        Jetrunner.jetInfo();
+        System.out.println("class for Garage");
+        Garagestate garagestate=new Garagestate();
+        Garagestate.garageInfo();
+        Garagerunner garagerunner = new Garagerunner();
+        Garagerunner.garage2();
+        System.out.println("class for Gym");
+        Gymstate gymstate=new Gymstate();
+        Gymstate.gymstrength();
+        Gymrunner gymrunner = new Gymrunner();
+        Gymrunner.gymDetails();
+
+
+
+
+
+
+
+
 
 
 
