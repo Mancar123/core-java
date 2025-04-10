@@ -51,6 +51,12 @@ public class runner {
         Gymstate.gymstrength();
         Gymrunner gymrunner = new Gymrunner();
         Gymrunner.gymDetails();
+        System.out.println("class for Apartment");
+        Apartmentstate gapartmentstate=new Apartmentstate();
+        Apartmentstate.apartmentInfo();
+        Apartmentrunner apartmentrunner = new Apartmentrunner();
+        Apartmentrunner.apartmentInfo();
+
 
 
 

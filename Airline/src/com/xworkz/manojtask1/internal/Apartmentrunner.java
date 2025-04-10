@@ -1,7 +1,7 @@
 package com.xworkz.manojtask1.internal;
 
 public class Apartmentrunner {
-    public void apartmentInfo() {
+    public static void apartmentInfo() {
         System.out.println("Apartment Details");
         Apartment apartment = new Apartment();
         apartment.setOwner("Manoj");
