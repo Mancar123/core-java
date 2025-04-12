@@ -5,4 +5,7 @@ public class Zenvo {
         System.out.println("Zenvo produces limited-edition hypercars.");
     }
 
+    public void aerodynamicActiveWing() {
+
+    }
 }
