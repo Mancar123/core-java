@@ -257,6 +257,56 @@ public class runner {
             OlaS1Pro OlaElectric=new OlaS1Pro();
             OlaElectric.hypercharging();
             OlaElectric.innovationInEV();
+            BMWK1600GT BMWMotorrad=new BMWK1600GT();
+            BMWMotorrad.adaptiveHeadlights();
+            BMWMotorrad.premiumRideExperience();
+            DucatiMonster Ducati=new DucatiMonster();
+            Ducati.advancedBraking();
+            Ducati.precisionHandling();
+            TriumphStreetTriple Triumph=new TriumphStreetTriple();
+            Triumph.refinedPerformance();
+            Triumph.tractionControl();
+            YamahaR1 Yamaha=new YamahaR1();
+            Yamaha.quickShifter();
+            Yamaha.racingTechnology();
+            KawasakiNinjaZX10R Kawasaki=new KawasakiNinjaZX10R();
+            Kawasaki.launchControl();
+            Kawasaki.trackPerformance();
+            ZaraSummercollection Zara=new ZaraSummercollection();
+            Zara.floralPrints();
+            Zara.style();
+            HMWintercollection HM=new HMWintercollection();
+            HM.woolenWear();
+            HM.affordability();
+            NikeSportswear Nike=new NikeSportswear();
+            Nike.dryFitTechnology();
+            Nike.comfort();
+            AdidasOriginals Adidas=new AdidasOriginals();
+            Adidas.trefoilLogo();
+            Adidas.performance();
+            LevisDenimFit Levis=new LevisDenimFit();
+            Levis.customFit();
+            Levis.durability();
+            GucciRunway Gucci=new GucciRunway();
+            Gucci.exclusiveDesigns();
+            Gucci.luxury();
+            UniqloLifeWear Uniqlo=new UniqloLifeWear();
+            Uniqlo.heatTech();
+            Uniqlo.simplicity();
+            FabIndiaEthnicWear FabIndia=new FabIndiaEthnicWear();
+            FabIndia.kurtaCollection();
+            FabIndia.tradition();
+            BibaFestiveWear Biba=new BibaFestiveWear();
+            Biba.elegance();
+            Biba.embroideredDesigns();
+
+
+
+
+
+
+
+
 
 
 
